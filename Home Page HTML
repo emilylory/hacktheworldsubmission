@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/1size.js" defer></script>
+  
+    <!--import JQUERY to this project-->
+    <script src="https://code.jquery.com/jquery-3.4.0.min.js">
+    </script>
+
+    </head>
+
+<body>
+	<script src="script.js">
+	</script>
+
+	 <a href = "/index.html">CSDS</a>
+    
+    <center><h1>Back to
+    School...</h1></center>
+
+    <a href = "/1size.html">Click Here to Start Designing a COVID-19 Safe Classroom</a>
+    <p>As the schools begin to open across the nation, teachers, students, and parents alike are beginning to navigate COVID-19 concerns in the classroom. 
+
+    <center><h3>Why We Made This</h3></center>
+    <p>We understand how difficult this time has been for educators as there is a lot of change involved. We are hoping to just make this process as easy as possible for teachers.</p>
+  
+    <center><h3>COVID-19 Guidlines Resources By State</h3></center>
+    <p>Below  listed are links to COVID-19 guidelines corresponding to each state. It is of utmost importance to stay informed and aware of the current COVID-19 situtaions occuring in your respective state, as well as the world, for the safety of all people.</p>
+    <h5>DISCLAIMER: The Classroom Social Distancing Simulator is created using CDC guidelines updated as of 7/24/2020.</h5>
+
+ 
+
+    <button class="accordion">Alabama</button>
+      <div class="panel">
+        <a href = "http://children.alabama.gov/alabama-covid-19-guidance/">Alabama COVID-19 Guidance</a><br>
+        <a href = "https://www.alsde.edu/covid-19">Novel Coronavirus (COVID-19) Education Information</a>
+      </div>
+    <button class="accordion">Alaska</button>
+      <div class="panel">
+        <a href = "https://education.alaska.gov/safeschools/infectiousdisease">Novel Coronavirus Disease</a><br>
+        <a href = "https://education.alaska.gov/news/COVID-19/Alaska%20Smart%20Start%202020%20Framework%20Guidance.pdf"> Restart & Reentry Framework Guidance for K-12 Schools 2020-2021 School Year</a>
+      </div>
+    <button class="accordion">Arizona</button>
+      <div class="panel">
+        <a href = "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home">Coronavirus Home</a><br>
+        <a href = "https://www.azdhs.gov/documents/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/novel-coronavirus/schools/school-childcare-handout.pdf">Arizona COVID-19 Response</a><br>
+        <a href = "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-schools">Schools(Childcare & K-12) and Universities</a><br>
+        <a href = "https://www.azed.gov/communications/2020/03/10/guidance-to-schools-on-covid-19/">COVID-19: Guidance and Suggestions</a>
+      </div>
+    <button class="accordion">Arkansas</button>
+      <div class="panel">
+        <a href = "https://www.apsrc.net/departments/communications/covid-19-updates/">COVID-19 Guidance and Resources for Schools</a><br>
+        <a href = "http://dese.ade.arkansas.gov/divisions/communications/covid-19-information">COVID-19 Information</a>
+      </div>
+    <button class="accordion">California</button>
+      <div class="panel">
+        <a href = "https://files.covid19.ca.gov/pdf/guidance-schools.pdf"> COVID-19 INDUSTRY GUIDANCE: Schools and School- Based Programs</a><br>
+        <a href = "https://www.cde.ca.gov/ls/he/hn/coronavirus.asp">Coronavirus Response and School Reopening Guidance</a>
+      </div>
+    <button class="accordion">Colorado</button>
+      <div class="panel">
+        <a href = "https://www.cde.state.co.us/safeschools">COVID-19 Resources for Schools</a><br>
+        <a href = "https://www.cde.state.co.us/planning20-21">Planning the 2020-21 School Year: A Framework and Toolkit for School and District Leaders</a><br>
+        <a href = "https://www.colorado.gov/pacific/cssrc/coronavirus-disease-2019-covid-19">Coronavirus Disease 2019 (COVID-19)</a>
+      </div>
+    <button class="accordion">Connecticut</button>
+      <div class="panel">
+        <a href = "https://portal.ct.gov/SDE/COVID19/COVID-19-Resources-for-Families-and-Educators">COVID-19 Resources for Families and Educators</a><br>
+        <a href = "https://portal.ct.gov/-/media/SDE/COVID-19/CTReopeningSchools.pdf"> Adapt, Advance, Achieve: Connecticut’s Plan to Learn and Grow Together</a><br>
+        <a href = "https://portal.ct.gov/Coronavirus/Information-For/School-Resources">School Resources</a>
+      </div>
+    <button class="accordion">Delaware</button>
+      <div class="panel">
+        <a href = "https://delaware.gov/">Delware.gov</a><br>
+         <a href = "https://www.msn.com/en-us/news/us/delaware-releases-new-guidelines-for-school-districts-to-open-this-fall/ar-BB16N6EM">Updated School Reopening Guidelines</a><br>
+         <a href = "https://www.doe.k12.de.us/">Delaware Department of Education</a><br>
+      </div>
+    <button class="accordion">Florida</button>
+      <div class="panel">
+        <a href = "https://floridahealthcovid19.gov/">Florida COVID-19 Response</a><br>
+        <a href = "http://www.fldoe.org/em-response/">Florida Department of Education</a><br>
+      </div>
+    <button class="accordion">Georgia</button>
+      <div class="panel">
+        <a href = "https://dph.georgia.gov/">Georgia Department of Public Health</a><br>
+         <a href = "https://dph.georgia.gov/">Georgia Department of Public Health</a><br>
+         <a href = "https://www.gadoe.org/Pages/Home.aspx">Georgia Department of Education</a><br>
+      </div>
+    <button class="accordion">Hawaii</button>
+      <div class="panel">
+        <a href = "https://hawaiicovid19.com/guidance-for-everyone/">Hawaii State Department of Healh</a><br>
+        <a href = "http://boe.hawaii.gov/Pages/Welcome.aspx">State of Hawaii Board of Education</a><br>
+      </div>
+    <button class="accordion">Idaho</button>
+      <div class="panel">
+        <a href = "https://coronavirus.idaho.gov/">Idaho.gov</a><br>
+        <a href = "https://boardofed.idaho.gov/">Idaho State Board of Education</a><br>  
+      </div>
+    <button class="accordion">Illinois</button>
+      <div class="panel">
+        <a href = "http://dph.illinois.gov/covid19">Illinois Department of Public Health</a><br>
+         <a href = "https://www.isbe.net/">Illinois State Board of Education</a>
+      </div>
+    <button class="accordion">Indiana</button>
+      <div class="panel">
+        <a href = "https://secure.in.gov/isdh/">Indiana State Department of Health</a><br>
+        <a href = "https://www.doe.in.gov/">Indiana Department of Education</a>
+      </div>
+    <button class="accordion">Iowa</button>
+      <div class="panel">
+        <a href = "https://idph.iowa.gov/">Iowa Department of Public Health</a><br>
+        <a href = "https://www.educateiowa.gov/">Iowa Department of Education</a><br>
+      </div>
+    <button class="accordion">Kansas</button>
+      <div class="panel">
+        <a href = "https://www.coronavirus.kdheks.gov/">Kansas Department of Health and Environment</a><br>
+        <a href = "https://www.ksde.org/">Kansas Department of Education</a><br>
+      </div>
+    <button class="accordion">Kentucky</button>
+      <div class="panel">
+        <a href = "https://chfs.ky.gov/agencies/dph/Pages/default.aspx">Kentucky Department for Public Health</a><br>
+        <a href = "https://education.ky.gov/Pages/default.aspx">Kentucky Department of Education</a><br>
+      </div>
+    <button class="accordion">Louisiana</button>
+      <div class="panel">
+        <a href = "http://www.ldh.la.gov/index.cfm/subhome/16">Louisiana Department of Healh</a><br>
+        <a href = "https://www.louisianabelieves.com/">Louisiana Department of Education</a><br>
+      </div>
+    <button class="accordion">Maine</button>
+      <div class="panel">
+        <a href = "https://www.maine.gov/dhhs/coronavirus-resources">Maine Department of Health and Human Services<br></a>
+        <a href = "https://www.maine.gov/doe/home">Maine Department of Education<br></a>
+      </div>
+    <button class="accordion">Maryland</button>
+      <div class="panel">
+        <a href = "https://coronavirus.maryland.gov/">Maryland Department of Health</a>
+        <a href = "http://www.marylandpublicschools.org/Pages/default.aspx">Maryland Department of Education</a>
+      </div>
+    <button class="accordion">Massechusetts</button>
+      <div class="panel">
+        <a href = "https://www.mass.gov/orgs/department-of-public-health">Department of Public Health</a><br>
+        <a href = "http://www.doe.mass.edu/">Department of Education</a><br>
+      </div>
+    <button class="accordion">Michigan</button>
+      <div class="panel">
+        <a href = "https://www.michigan.gov/mdhhs/0,5885,7-339-71550_5104_97675---,00.html">Michigan Department of Health and Human Services</a><br>
+        <a href = "https://www.michigan.gov/mde">Michigan Department of Education</a><br>
+      </div>
+    <button class="accordion">Minnesota</button>
+      <div class="panel">
+        <a href = "https://www.health.state.mn.us/">Minnesota Department of Health</a><br>
+        <a href = "https://education.mn.gov/mde/index.html">Minnesota Department of Education</a><br>
+      </div>
+    <button class="accordion">Mississippi</button>
+      <div class="panel">
+        <a href = "https://www.msdh.ms.gov/">Mississippi Department of Health</a><br>
+        <a href = "https://mdek12.org/">Mississippi Department of Education</a>
+      </div>
+    <button class="accordion">Missouri</button>
+      <div class="panel">
+        <a href = "https://health.mo.gov/index.php">Missouri Department of Healh and Senior Services</a><br>
+        <a href = "https://dese.mo.gov/">Missouri Department of Education</a>
+      </div>
+    <button class="accordion">Montana</button>
+      <div class="panel">
+        <a href = "https://dphhs.mt.gov/publichealth">Montana Public Health and Safety Division</a><br>
+        <a href = "http://opi.mt.gov/">Montana Office of Public Instruction</a>
+      </div>
+    <button class="accordion">Nebraska</button>
+      <div class="panel">
+        <a href = "http://dhhs.ne.gov/Pages/public-health.aspx">Nebraska Department of health and Human Services</a><br>
+        <a href = "https://www.education.ne.gov/">Nebraska Department of Education</a>
+      </div>
+    <button class="accordion">Nevada</button>
+      <div class="panel">
+        <a href = "https://nvhealthresponse.nv.gov/">Nevada Health Response</a><br>
+        <a href = "http://www.doe.nv.gov/">Nevada Department of Education</a><br>
+      </div>
+    <button class="accordion">New Hampshire</button>
+      <div class="panel">
+        <a href = "https://www.dhhs.nh.gov/">New Hampshire Health and Human Services</a><br>
+         <a href = "https://www.education.nh.gov/">New Hampshire Department of Education</a><br>
+      </div>
+    <button class="accordion">New Jersey</button>
+      <div class="panel">
+        <a href = "https://www.state.nj.us/health/healthfacilities/">New Jersey Department of Health</a><br>
+        <a href = "https://www.nj.gov/education/">New Jersey Department of Education</a><br>
+        
+      </div>
+    <button class="accordion">New Mexico</button>
+      <div class="panel">
+        <a href = "https://www.nmhealth.org/">New Mexico Department of Health</a><br>
+        <a href = "https://www.newmexico.gov/education/">New Mexico Education</a><br>
+      </div>
+    <button class="accordion">New York</button>
+      <div class="panel">
+        <a href = "https://www.health.ny.gov/">New York Department of Health</a><br>
+        <a href = "http://www.nysed.gov/">New York State Education Department</a><br>
+      </div>
+    <button class="accordion">North Carolina</button>
+      <div class="panel">
+        <a href = "https://www.ncdhhs.gov">North Carolina Department of Health and Human Services</a><br>
+        <a href = "https://www.dpi.nc.gov/">North Carolina Department of Public Instruction</a><br>
+      </div>
+    <button class="accordion">North Dakota</button>
+      <div class="panel">
+        <a href = "https://www.health.nd.gov/">North Dakota Department of Health</a><br>
+        <a href = "https://www.nd.gov/dpi/">North Dakota Department of Public Instruction</a>
+      </div>
+    <button class="accordion">Ohio</button>
+      <div class="panel">
+        <a href = "https://odh.ohio.gov/wps/portal/gov/odh/home">Ohio Department of Health</a><br>
+        <a href = "http://education.ohio.gov/">Ohio Department of Education</a><br>
+      </div>
+    <button class="accordion">Oklahoma</button>
+      <div class="panel">
+        <a href = "https://www.ok.gov/health/">Oklahoma State Department of Health</a><br>
+        <a href = "https://sde.ok.gov/">Oklahoma State Department of Education</a>
+      </div>
+    <button class="accordion">Oregan</button>
+      <div class="panel">
+        <a href = "https://www.oregon.gov/oha/PH/Pages/index.aspx">Oregan Public Health Division</a><br>
+        <a href = "https://www.oregon.gov/ode/Pages/default.aspx">Oregan Department of Education</a><br>
+      </div>
+    <button class="accordion">Pennsylvania</button>
+      <div class="panel">
+        <a href = "https://www.health.pa.gov/Pages/default.aspx">Pennsylvania Department of Health</a><br>
+        <a href = "https://www.education.pa.gov/Pages/default.aspx">Pennsylvania Department of Education</a><br>
+      </div>
+    <button class="accordion">Rhode Island</button>
+      <div class="panel">
+        <a href = "https://health.ri.gov/">Rhode Island Department of Health</a><br>
+        <a href = "https://www.ride.ri.gov/">Rhode Island Department of Education</a><br>
+      </div>
+    <button class="accordion">South Carolina</button>
+      <div class="panel">
+        <a href = "https://www.scdhec.gov/">South Carolina Department of Health and Environmental Control</a><br>
+        <a href = "https://www.ed.sc.gov">South Carolina Department of Education</a><br>
+      </div>
+    <button class="accordion">South Dakota</button>
+      <div class="panel">
+        <a href = "https://doh.sd.gov/">South Dakota Department of Health</a><br>
+        <a href = "https://doe.sd.gov/">South Dakota Department of Education</a><br>
+      </div>
+    <button class="accordion">Tennessee</button>
+      <div class="panel">
+        <a href = "https://www.tn.gov/health.html">Tennessee Department of Health</a><br>
+        <a href = "https://www.tn.gov/education.html">Tennessee Department of Education</a><br>
+      </div>
+    <button class="accordion">Texas</button>
+      <div class="panel">
+        <a href = "https://dshs.texas.gov/">Texas Department of Health</a><br>
+        <a href = "https://www.ed.gov/category/location/texas">Texas Department of Education</a><br>
+      </div>
+    <button class="accordion">Utah</button>
+      <div class="panel">
+        <a href = "https://health.utah.gov/">Utah Department of Health</a><br>
+        <a href = "https://schools.utah.gov/">Utah State Board of Education</a><br>
+      </div>
+    <button class="accordion">Vermont</button>
+      <div class="panel">
+        <a href = "https://www.healthvermont.gov/">Vermont Department of Health</a><br>
+        <a href = "https://education.vermont.gov/">Vermont Agency of Education</a><br>
+      </div>
+    <button class="accordion">Virginia</button>
+      <div class="panel">
+        <a href = "https://www.vdh.virginia.gov/coronavirus/">Virginia Department of Health</a><br>
+         <a href = "https://www.vdh.virginia.gov/coronavirus/">Virginia Department of Health</a><br>
+         <a href = "http://www.doe.virginia.gov/">Virginia Department of Education</a><br>
+      </div>
+    <button class="accordion">Washington</button>
+      <div class="panel">
+        <a href = "https://www.doh.wa.gov/">Washington State Department of Health</a><br>
+        <a href = "https://www.ed.gov/category/location/washington">Washington Department of Education</a><br>
+      </div>
+    <button class="accordion">West Virginia</button>
+      <div class="panel">
+        <a href = "https://www.vdh.virginia.gov/">Virginia Department of Health</a><br>
+        <a href = "https://wvde.us/">West Virginia Department of Education</a><br>
+      </div>
+    <button class="accordion">Wisconsin</button>
+      <div class="panel">
+        <a href = "https://www.dhs.wisconsin.gov/covid-19/index.htm">Wisconsin Department of Health Services</a><br>
+        <a href = "https://dpi.wi.gov/">Wisconsin Department of Public Instruction</a><br>
+      </div>
+    <button class="accordion">Wyoming</button>
+      <div class="panel">
+        <a href = "https://health.wyo.gov/publichealth/">Wyoming Department of Public Health</a><br>
+        <a href = "https://edu.wyoming.gov/">Wyoming Department of Education</a><br>
+      </div>
+
+<!--js for accordion-->
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+</script>
+
+  </body>
+</html>
