@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/3desks.js" defer></script>
+  
+    <!--import JQUERY to this project-->
+    <script src="https://code.jquery.com/jquery-3.4.0.min.js">
+    </script>
+
+    </head>
+  <body>
+    <script src="script.js"></script>
+
+   <a href = "/index.html">CSDS</a>
+
+    <h2>Directions</h2>
+    <p>Input the number of desks your classroom will need and the average length and width of the desks in your classroom. If you don't know the length and width yet you can select the default measurements.</p><br>
+  
+<table id="myDesks" border="1"> </table>
+<form> 
+<input type="button" onclick="createDesks()" value="Number of Desks"> 
+</form>
+
+    <a class="n" href  = "/2design.html">Back</a>
+    <a class="n" href  = "/3desks.html">Next</a>
+    
+  </body>
+</html>
