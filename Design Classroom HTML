@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/2design.js" defer></script>
+  
+    <!--import JQUERY to this project-->
+    <script src="https://code.jquery.com/jquery-3.4.0.min.js">
+    </script>
+
+    </head>
+  <body>
+    <script src="script.js"></script>
+
+   <a href = "/index.html">CSDS</a>
+
+    <h2>Directions</h2>
+    <p>Drag and drop furniture, windows, and doors to their appropriate spots.</p><br>
+
+<div class="div2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+
+  <div class= "div1" id="div1" ondrop="drop(event)" ondragover="allowDrop(event)">
+  <img src="https://lh3.googleusercontent.com/proxy/37FHtAaMzIxRGp8NT4JJrS2AHWPYhAHuynznDBQsrvWq5Y_Jn8ks2DZkOeP7e1FscDKb8QM_XWFgy13KIVemoItWxKSB-feGDBlE3YmvzELpweK17Dby4mM" draggable="true" ondragstart="drag(event)" id="drag1" width="" height="40">
+  <img src="https://lh3.googleusercontent.com/proxy/37FHtAaMzIxRGp8NT4JJrS2AHWPYhAHuynznDBQsrvWq5Y_Jn8ks2DZkOeP7e1FscDKb8QM_XWFgy13KIVemoItWxKSB-feGDBlE3YmvzELpweK17Dby4mM" draggable="true" ondragstart="drag(event)" id="drag1" width="" height="40">
+  <img src="https://library.kissclipart.com/20180831/obw/kissclipart-icon-window-clipart-window-computer-icons-e2caab855cb92d0f.png" draggable="true" ondragstart="drag(event)" id="drag1" width="" height="40">
+  <img src="https://library.kissclipart.com/20180831/obw/kissclipart-icon-window-clipart-window-computer-icons-e2caab855cb92d0f.png" draggable="true" ondragstart="drag(event)" id="drag1" width="" height="40">
+  <img src="https://library.kissclipart.com/20180831/obw/kissclipart-icon-window-clipart-window-computer-icons-e2caab855cb92d0f.png" draggable="true" ondragstart="drag(event)" id="drag1" width="" height="40">
+  <img src="https://library.kissclipart.com/20180831/obw/kissclipart-icon-window-clipart-window-computer-icons-e2caab855cb92d0f.png" draggable="true" ondragstart="drag(event)" id="drag1" width="" height="40">
+  <img src="https://library.kissclipart.com/20180829/zqw/kissclipart-smart-board-clipart-interactive-whiteboard-clip-ar-519043013e81598a.png" draggable="true" ondragstart="drag(event)" id="drag1" width="" height="40">
+  <img src="https://cdn.pixabay.com/photo/2014/04/02/17/03/blackboard-307799_960_720.png" draggable="true" ondragstart="drag(event)" id="drag1" width="" height="40">
+  <img src="https://cdn.pixabay.com/photo/2014/04/02/17/03/blackboard-307799_960_720.png" draggable="true" ondragstart="drag(event)" id="drag1" width="" height="40">
+  <img src="https://cdn.pixabay.com/photo/2014/04/02/17/03/blackboard-307799_960_720.png" draggable="true" ondragstart="drag(event)" id="drag1" width="" height="40">
+  <img src="https://cdn.pixabay.com/photo/2014/04/02/17/03/blackboard-307799_960_720.png" draggable="true" ondragstart="drag(event)" id="drag1" width="" height="40">
+  <img src="https://www.clker.com/cliparts/Y/x/w/M/i/Y/sofa-hi.png" draggable="true" ondragstart="drag(event)" id="drag1" width="" height="40">
+  <img src="https://www.clker.com/cliparts/Y/x/w/M/i/Y/sofa-hi.png" draggable="true" ondragstart="drag(event)" id="drag1" width="" height="40">
+  <img src="https://www.clker.com/cliparts/Y/x/w/M/i/Y/sofa-hi.png" draggable="true" ondragstart="drag(event)" id="drag1" width="" height="40">
+  <img src="https://www.cabtivist.com/photo/1110x1110_clipart-library.com/images/8TGbAXrEc.png" draggable="true" ondragstart="drag(event)" id="drag1" width="" height="40">
+  <img src="https://www.cabtivist.com/photo/1110x1110_clipart-library.com/images/8TGbAXrEc.png" draggable="true" ondragstart="drag(event)" id="drag1" width="" height="40">
+  <img src="https://www.cabtivist.com/photo/1110x1110_clipart-library.com/images/8TGbAXrEc.png" draggable="true" ondragstart="drag(event)" id="drag1" width="" height="40">
+  <img src="https://www.cabtivist.com/photo/1110x1110_clipart-library.com/images/8TGbAXrEc.png" draggable="true" ondragstart="drag(event)" id="drag1" width="" height="40">
+  <img src="https://www.nicepng.com/png/full/294-2947686_file-size-teachers-desk-cartoon.png" draggable="true" ondragstart="drag(event)" id="drag1" width="" height="40">
+  <img src="https://www.nicepng.com/png/full/294-2947686_file-size-teachers-desk-cartoon.png" draggable="true" ondragstart="drag(event)" id="drag1" width="" height="40">
+</div><br>
+
+
+    <a class="n"href = "/1size.html">Back</a>
+    <a class="n"href  = "/3desks.html">Next</a>
+    
+  </body>
+</html>
