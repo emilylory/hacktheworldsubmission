@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/1size.js" defer></script>
+  
+    <!--import JQUERY to this project-->
+    <script src="https://code.jquery.com/jquery-3.4.0.min.js">
+    </script>
+
+ 
+    <meta charset=utf-8 /> 
+    <title>Create Your Classroom</title> 
+    <style type="number/css"> 
+    body {margin: 30px;} 
+    </style>  
+
+    </head>
+  <body>
+
+    <a href = "/index.html">CSDS</a>
+
+   <center><h2>Directions</h2></center>
+    <p>Click Create your Classroom and input the length and width of your classroom into the boxes that pop up and then click ok. Make sure that you only input numerical values. You know that it worked when a grid appears with the right length and width on the screen. Once this happens click the Next button.</p>
+  
+    
+    <table id="myClassroom" border="1"></table>
+    <form> 
+      <input type="button" onclick="createClassroom()" value="Create your Classroom"> 
+    </form>
+
+    <a class="n" href  = "/index.html">Back</a>
+    <a class="n" href  = "/2design.html">Next</a>
+   
+
+  </body>
+</html>
